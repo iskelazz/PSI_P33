@@ -1,0 +1,9 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.preference.EditTextPreference
+        app:key="user"
+        app:title="Nombre de usuario"
+        app:summary="Ingresa tu nombre de usuario"
+        app:useSimpleSummaryProvider="true"/>
+
+</androidx.preference.PreferenceScreen>
